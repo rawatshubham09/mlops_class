@@ -18,7 +18,7 @@ list_of_file = [
     f"src/{name}/pipeline/training_pipeline.py",
     f"src/{name}/utils/utils.py",
     f"src/{name}/utils/__init__.py",
-    f"src/{name}/exception/exception"
+    f"src/{name}/exception/exception.py",
     "tests/unit/__init__.py",
     "tests/integration/__init__.py",
     "init_setup.sh",
